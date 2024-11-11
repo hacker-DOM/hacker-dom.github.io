@@ -1,3 +1,3 @@
 # Dominik Teiml's Website
 
-[Presentations](https://dteiml.github.io/presentations)
+[Presentations](https://hacker-dom.github.io/presentations)
